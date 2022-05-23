@@ -1,0 +1,3 @@
+3. The right angle bracket outputs the results of whatever command was listed before it and using it by itself creates a new file so it likely dumped the directory listing into the newfile.txt text file
+4. shows the differences between the github directory and the local directory
+
